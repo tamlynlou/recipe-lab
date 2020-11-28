@@ -43,7 +43,7 @@ ul {
 /* Site Specific
 ------------------------------------*/
 .hero {
-    background-image: url("https://github.com/tamlynlou/recipe-lab/blob/master/img/pastatwirl.jpg?raw=true");
+    background-image: url("img/pastatwirl.jpg");
     background-size: cover;
     background-position: right;
     padding-top: 100px;
