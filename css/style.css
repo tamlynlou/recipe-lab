@@ -43,7 +43,7 @@ ul {
 /* Site Specific
 ------------------------------------*/
 .hero {
-    background-image: url(img/olesya-yemets-fzXVmIUsEbM-unsplash.JPG);
+    background-image: url("img/olesya-yemets-fzXVmIUsEbM-unsplash.jpg");
     background-size: cover;
     padding-top: 100px;
     border-bottom: 5px solid #f2f2f2;
