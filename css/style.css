@@ -43,7 +43,7 @@ ul {
 /* Site Specific
 ------------------------------------*/
 .hero {
-    background-image: url('/img/pastatwirl.jpg');
+    background-image: url("img/pastatwirl.jpg");
     background-size: cover;
     background-position: right;
     padding-top: 100px;
@@ -108,7 +108,7 @@ ul {
 }
 
 .ingredients ul {
-    list-style-image: url('/img/ravioli.png');
+    list-style-image: url("img/ravioli.png");
     margin-left: 15px;
     padding: 0 15px;
 }
